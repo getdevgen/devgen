@@ -1,4 +1,4 @@
-# Devgen Feedback
+# Devgen
 
 This repository is dedicated to collecting feedback for Devgen, a Chrome extension that enables side-by-side chat with your GitHub repository.
 
