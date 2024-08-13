@@ -33,11 +33,8 @@ To get early access to Devgen:
 
 ## Download Early Access Chrome Extension
 
-To download the early access version of the Devgen Chrome extension, please check the "Releases" section of this repository.
-1. enable the developer mode for chrome
-2. download the latest release from https://github.com/getdevgen/devgen/releases/download/v0.1.0/devgen-0.1.0-chrome.zip
-3. unzip the package 
-4. go to the "Manage Extensions" of chrome and click the "load unpacked"  to load the devgen-0.1-0-chrome folder
+
+1. download the latest release from [https://github.com/getdevgen/devgen/releases/download/v0.1.0/devgen-0.1.0-chrome.zip](https://chromewebstore.google.com/detail/devgen-the-ai-assistant-f/iglkjhingcdlfanjlokiodgfcllmcfoc?authuser=0&hl=en)
 
 ## Stay Updated
 
