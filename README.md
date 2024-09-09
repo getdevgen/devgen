@@ -2,6 +2,8 @@
 <div align="center">
   <h1>Devgen</h1>
   <br />
+  <a href="https://github.com/getdevgen/devgen/issues/new?assignees=imotai&labels=bug&projects=&template=bug_report.md&title=bug%3A">Add To Chrome</a>
+  .
   <a href="https://github.com/getdevgen/devgen/issues/new?assignees=imotai&labels=bug&projects=&template=bug_report.md&title=bug%3A">Report a Bug</a>
   ·
   <a href="https://github.com/getdevgen/devgen/issues/new?assignees=imotai&labels=enhancement&projects=&template=feature_request.md&title=feat%3A+">Request a Feature</a>
