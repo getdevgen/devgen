@@ -16,7 +16,8 @@ This repository is dedicated to collecting feedback for Devgen, a Chrome extensi
 
 ## About Devgen
 
-Devgen is a Chrome extension that enhances your GitHub experience by allowing you to chat with your repository content side by side. It aims to streamline your development workflow and boost productivity.
+Devgen is an AI Assistant that analyzes code, issues, pull requests, and releases to provide insights about your Github repository.
+
 
 ## Purpose of This Repository
 
