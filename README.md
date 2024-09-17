@@ -25,19 +25,6 @@ This repository serves three main purposes:
 
 1. **Bug Reports**: If you encounter any issues while using Devgen, please report them here.
 2. **Feature Requests**: Have an idea to improve Devgen? We'd love to hear it! Submit your feature requests in this repository.
-3. **Early Access Chrome Extension**: You can download the early access version of the Devgen Chrome extension from this repository.
-
-## How to Get Early Access
-
-To get early access to Devgen:
-
-1. Visit [devgen.xyz](https://devgen.xyz)
-2. Follow the instructions on the website to request early access
-
-## Download Early Access Chrome Extension
-
-
-1. download the latest release from [chrome webstore](https://chromewebstore.google.com/detail/devgen-your-github-ai-ass/iglkjhingcdlfanjlokiodgfcllmcfoc?authuser=0&hl=en)
 
 ## Stay Updated
 
